@@ -1,7 +1,11 @@
-# Scrittore-V1.2
+# Scrittore-V1
 Molto semplicemente ... prendete il vostro testo e sembra che siete voi a scriverlo.
 ### Ok, non rompete 
 #### non è super avanzato ma sto cercando di migliorarlo
-## Cordinate
+## Coordinate
+#### Per Coordinate intende il punto dove comincia a scrivere, non deve essere preciso basta che sia un punto sulla schermata dove scrivere
 ° Quando chiede le coordinate mettete quelle dello schermo mettete x = 0-1920, y = 0-1080
 ° se state usando word a schermo intero vi conviene mettere delle coordinate tipo 500, 500
+# V1.3 ...
+La grande differenza è che c'è il timer prima che comincia a scrivere.
+Installate la versione 1.3
