@@ -10,5 +10,5 @@ Molto semplicemente ... prendete il vostro testo e sembra che siete voi a scrive
 La grande differenza è che c'è il timer prima che comincia a scrivere.
 Installate la versione 1.3
 # Installazione
-Per installare il file clickate il file e poi premete il bottone "Download" non è troppo complicato ma so che alcune di voi testoline non sono propio acutissime
+Per installare il file clickate il file e poi premete il bottone "Download" non è troppo complicato!
 
