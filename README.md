@@ -10,5 +10,5 @@ Molto semplicemente ... prendete il vostro testo e sembra che siete voi a scrive
 La grande differenza è che c'è il timer prima che comincia a scrivere.
 Installate la versione 1.3
 # Installazione
-Per installare il file clickate il file e poi premete il bottone "Download" non è troppo complicato!
+Per installare il file clickate il file con ".exe" se non avete installato python e volete solo aver il programma o con ".py" se avete già installato python e i differenti moduli e poi premete il bottone "Download" non è troppo complicato!
 
